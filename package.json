@@ -1,8 +1,8 @@
 {
-  "name": "importcsv",
+  "name": "csv-handler",
   "version": "1.0.1",
   "description": "Import csv files to your RocketDB database",
-  "main": "importCSV.js",
+  "main": "index.js",
   "dependencies": {
     "fast-csv": "^2.4.0"
   },
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sacharbit/importCSV.git"
+    "url": "git+https://github.com/sacharbit/csv-handler.git"
   },
   "keywords": [
     "import",
@@ -22,7 +22,7 @@
   "author": "sacharbit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sacharbit/importCSV/issues"
+    "url": "https://github.com/sacharbit/csv-handler/issues"
   },
-  "homepage": "https://github.com/sacharbit/importCSV#readme"
+  "homepage": "https://github.com/sacharbit/csv-handler#readme"
 }
