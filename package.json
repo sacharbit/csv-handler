@@ -1,6 +1,6 @@
 {
   "name": "csv-handler",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Import csv files to your RocketDB database",
   "main": "index.js",
   "dependencies": {
